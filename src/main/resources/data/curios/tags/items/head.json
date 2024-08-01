@@ -1,6 +1,18 @@
 {
   "replace": false,
   "values": [
-    "skyloreadditions:augment_brain_chip"
+    "skyloreadditions:neural_interface",
+    "skyloreadditions:optic_enhancer",
+    "skyloreadditions:digital_retina",
+    "skyloreadditions:bio_optic_eye",
+    "skyloreadditions:mech_jaw",
+    "skyloreadditions:mind_link",
+    "skyloreadditions:augment_brain_chip",
+    "skyloreadditions:giga_ear",
+    "skyloreadditions:hyper_vision_lens",
+    "skyloreadditions:virtual_assistant_node",
+    "skyloreadditions:quantum_interface",
+    "skyloreadditions:cyber_brain",
+    "skyloreadditions:nano_processor"
   ]
 }

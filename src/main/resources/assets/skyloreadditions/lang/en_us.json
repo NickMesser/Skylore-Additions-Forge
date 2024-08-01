@@ -1,3 +1,13 @@
 {
-  "creativetab.skyloreadditions": "Skylore Additions"
+  "creativetab.skyloreadditions": "Skylore Additions",
+  "item.skyloreadditions.augmented_nervous_system": "Augmented Nervous System",
+  "item.skyloreadditions.augment_brain_chip": "Augment Brain Chip",
+  "item.skyloreadditions.augment_shield": "Augment Shield",
+  "item.skyloreadditions.bio_feedback_system": "Bio Feedback System",
+  "item.skyloreadditions.bio_optic_eye": "Bio Optic Eye",
+  "item.skyloreadditions.bio_skeleton": "Bio Skeleton",
+  "item.skyloreadditions.cyber_arm": "Cyber Arm",
+  "item.skyloreadditions.cyber_brain": "Cyber Brain",
+  "item.skyloreadditions.cybernetic_hand": "Cybernetic Hand",
+  "item.skyloreadditions.cybernetic_spine": "Cybernetic Spine"
 }

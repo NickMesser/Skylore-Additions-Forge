@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "skyloreadditions:power_core",
+    "skyloreadditions:data_hub",
+    "skyloreadditions:cybernetic_spine",
+    "skyloreadditions:pulse_enhancer",
+    "skyloreadditions:techno_core",
+    "skyloreadditions:augment_shield",
+    "skyloreadditions:energy_converter"
+  ]
+}

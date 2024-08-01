@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "skyloreadditions:synthetic_heart",
+    "skyloreadditions:nano_skin",
+    "skyloreadditions:nano_bloodstream",
+    "skyloreadditions:sensory_module",
+    "skyloreadditions:bio_skeleton",
+    "skyloreadditions:nano_weave_muscle",
+    "skyloreadditions:synthetic_lungs",
+    "skyloreadditions:bio_feedback_system",
+    "skyloreadditions:augmented_nervous_system"
+  ]
+}

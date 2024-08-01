@@ -9,11 +9,11 @@ import top.theillusivec4.curios.api.CuriosApi;
 import top.theillusivec4.curios.api.SlotContext;
 import top.theillusivec4.curios.api.type.capability.ICurio;
 
-public class AugmentBrainChipItem extends Item{
-    public AugmentBrainChipItem() {
+public class CuriosItemBase extends Item {
+    public CuriosItemBase() {
         super(new Properties()
-                .stacksTo(1)
-                .fireResistant());
+                .fireResistant()
+                .stacksTo(1));
     }
 
     @Override

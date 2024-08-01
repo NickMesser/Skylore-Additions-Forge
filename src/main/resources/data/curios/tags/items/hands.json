@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "skyloreadditions:cyber_arm",
+    "skyloreadditions:holo_display_arm",
+    "skyloreadditions:cybernetic_hand",
+    "skyloreadditions:plasma_pulse_arm",
+    "skyloreadditions:servo_motor_arm"
+  ]
+}

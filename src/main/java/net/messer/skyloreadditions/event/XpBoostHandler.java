@@ -20,11 +20,8 @@ public class XpBoostHandler {
             var stack = inventory.resolve().get().findFirstCurio(ModItems.AUGMENT_BRAIN_CHIP.get());
             if(stack.isPresent()){
                 var originalXp = event.getOrb().value;
-                SkyloreAdditions.LOGGER.info("Original XP: " + originalXp);
                 var extraXp = (originalXp + 9) / 10;
-                SkyloreAdditions.LOGGER.info("Extra XP: " + extraXp);
                 event.getOrb().value = (int) (originalXp + extraXp);
-                SkyloreAdditions.LOGGER.info("New XP: " + event.getOrb().value);
             }
         }
     }
